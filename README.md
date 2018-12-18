@@ -32,9 +32,8 @@ Instructions to play:
 
     
 # contributors
-1- Mohamed Gamal Omran
-
+1. Mohamed Gamal Omran
 2. Mohamed Mohamed Hassan
-3- Hagar Abdel Wahab
-4- Dina El-Gamal
-5- Nourhan Amin
+3. Hagar Abdel Wahab
+4. Dina El-Gamal
+5. Nourhan Amin
